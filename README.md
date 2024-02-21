@@ -2,7 +2,7 @@
 
 This is just a simple CRUD using Django.
 
-Live deployment: https://matheusbraga59.pythonanywhere.com/careers/
+Live deployment (first load might take a few seconds): https://matheusbraga59.pythonanywhere.com/careers/
 
 To run locally run the following commands in the `root` directory:
 ```
